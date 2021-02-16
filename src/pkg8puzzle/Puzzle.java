@@ -149,7 +149,6 @@ public class Puzzle {
             s1.print();
 
         }*/
-        System.out.println((int) Math.sqrt(16));
 
     }
     
